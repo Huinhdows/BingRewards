@@ -1,3 +1,6 @@
+#Note: This is not my work! This script is courtesy of https://github.com/sealemar/BingRewards/branches and I am merely cloning it for my own use and archival purposes.
+
+
 #BingRewards
 ##About
 BingRewards is an automated point earning script that works with Bing.com to earn points that can be redeemed for giftcards.
