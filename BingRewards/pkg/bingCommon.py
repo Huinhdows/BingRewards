@@ -33,6 +33,8 @@ class UserAgents:
         return userAgents
 
 USER_AGENTS_PC = (
+    # Microsoft Edge Windows 10
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586"
     # Safari Mac OSX
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17",
     # Firefox Mac OSX
@@ -57,7 +59,7 @@ USER_AGENTS_MOBILE = (
     # Chrome Android 6.0.1 (LG G5)
     "Mozilla/5.0 (Linux; Android 6.0.1; LGLS992 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",
     # Chrome Android 6.0.1 (Samsung S6 Edge)
-    "Mozilla/5.0 (Linux; Android 6.0.1; SM-G925V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 6.0.1; SM-G925V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36"
     # Chrome Andorid 6.0 (Motorola Droid Turbo 2)
     "Mozilla/5.0 (Linux; Android 6.0; XT1585 Build/MCK24.78-13.12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",
     # Chrome Android 5.0 (Galaxy S5)
